@@ -41,6 +41,8 @@ Can you build a binary classification model for these files?
 
 We propose several topics for the case study. We ask you to prepare at least one. You are free to make any assumptions you deem relevant.
 
+ℹ️ You do not need to code anything on this subject, we only want to know how you would tackle the topic you choose.
+
 #### Abnormal connections
 
 Suppose there is a computer network consisting of multiple computers. Multiple users can connect to the same machine. The goal is to determine, for each connection to each machine, whether it is abnormal. To assist you in your analysis, you can consider only Windows machines and assume that you have access to all the information available on each machine in real-time.
